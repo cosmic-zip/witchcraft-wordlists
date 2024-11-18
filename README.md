@@ -1,3 +1,4 @@
-# witchvraft-wordlists
+# Witchcraft Project
 
-All wordlists and malware signature files
+This repository hosts the complete version of the spellbook, including wordlists. 
+Without the wordlists, the spellbook's size is just 25 MB.
